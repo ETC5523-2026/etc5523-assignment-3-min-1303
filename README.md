@@ -4,7 +4,7 @@
 
 **University:** Monash University
 
-**Website:** To be added after GitHub Pages publication.
+**Website:** [Assignment 3](https://etc5523-2026.github.io/etc5523-assignment-3-min-1303/)
 
 ## About This Website
 
