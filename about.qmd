@@ -1,13 +1,31 @@
 ---
-title: "About"
+title: "About Me"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
+      text: GitHub
+      href: https://github.com/Min-1303
+    - icon: journal-text
+      text: My Blog
+      href: index.qmd
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+## Hello, I'm Min!
+
+I'm Min Khant Aung, currently pursuing a Master of Business Analytics at Monash University in Melbourne, Australia.
+
+With a background in Computer Science, specialising in Artificial Intelligence, I've developed an interest in understanding how data can be used to solve real-world problems and support better decision-making.
+
+I'm particularly interested in **data analytics, business intelligence, and data visualisation**, especially finding ways to turn complex information into clear, meaningful insights.
+
+Through this website, I share my projects, analyses, and data stories while developing my skills in communicating data to different audiences.
+
+## What I'm Interested In
+
+- **Business Analytics:** Using data to understand problems and support informed decisions.
+- **Data Visualisation:** Making complex findings easier to understand through effective visual design.
+- **Data Storytelling:** Communicating research and evidence in ways that are accessible and engaging.
+
+Thanks for visiting my website!
