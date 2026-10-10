@@ -231,3 +231,9 @@ blockquote {
   }
 }
 
+/* Table of contents */
+#TOC .nav-link.active,
+#TOC .nav-link:hover {
+  color: #A34C35 !important;
+  border-left-color: #A34C35 !important;
+}
