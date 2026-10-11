@@ -8,8 +8,8 @@ about:
       text: GitHub
       href: https://github.com/Min-1303
     - icon: journal-text
-      text: My Blog
-      href: index.html
+      text: Explore My Blog
+      href: https://etc5523-2026.github.io/etc5523-assignment-3-min-1303/#latest-stories
 ---
 
 ## Hello, I'm Min!
