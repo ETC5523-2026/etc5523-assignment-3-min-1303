@@ -9,7 +9,7 @@ about:
       href: https://github.com/Min-1303
     - icon: journal-text
       text: My Blog
-      href: index.qmd
+      href: posts/welcome/index.html
 ---
 
 ## Hello, I'm Min!
