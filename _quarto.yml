@@ -1,17 +1,27 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "blog-template"
+  title: "Min Khant Aung | Data & Analytics"
+  description: "Exploring data, research, and the stories behind the numbers."
+
   navbar:
+    background: "#463B36"
+    foreground: "#FAF7F0"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/etc5523-2022
+        href: https://github.com/Min-1303
+        aria-label: GitHub
+
 format:
   html:
     theme: cosmo
     css: styles.css
-
-
-
+    smooth-scroll: true
+    link-external-newwindow: true

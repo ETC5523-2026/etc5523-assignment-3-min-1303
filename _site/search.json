@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "",
+    "text": "Imagine spending two weeks in hotel quarantine, testing negative for COVID-19, and finally returning home. For much of the early pandemic, systems like this helped Australia and New Zealand prevent imported infections from spreading into the community.\nBut what happens when the virus becomes much easier to transmit?\nThe emergence of the Delta variant raised an important question: could vaccination keep border quarantine effective, even as COVID-19 became more contagious?\nA study by Zachreson et al. (2022), published in Science Advances, investigated this question using computer simulations.\nThe findings suggest that vaccination could reduce the additional risk created by more transmissible variants. However, vaccination alone was not enough to guarantee protection."
+  },
+  {
+    "objectID": "posts/welcome/index.html#when-the-virus-changed-the-rules",
+    "href": "posts/welcome/index.html#when-the-virus-changed-the-rules",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "",
+    "text": "Imagine spending two weeks in hotel quarantine, testing negative for COVID-19, and finally returning home. For much of the early pandemic, systems like this helped Australia and New Zealand prevent imported infections from spreading into the community.\nBut what happens when the virus becomes much easier to transmit?\nThe emergence of the Delta variant raised an important question: could vaccination keep border quarantine effective, even as COVID-19 became more contagious?\nA study by Zachreson et al. (2022), published in Science Advances, investigated this question using computer simulations.\nThe findings suggest that vaccination could reduce the additional risk created by more transmissible variants. However, vaccination alone was not enough to guarantee protection."
+  },
+  {
+    "objectID": "posts/welcome/index.html#how-did-the-researchers-investigate-the-problem",
+    "href": "posts/welcome/index.html#how-did-the-researchers-investigate-the-problem",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "How did the researchers investigate the problem?",
+    "text": "How did the researchers investigate the problem?\nRather than experimenting with real travellers, the researchers built a computer model of a quarantine facility.\nThe simulated facility accommodated 100 travellers and employed 20 workers. Travellers completed a minimum 14-day quarantine period, with testing and isolation procedures designed to detect infections.\nThe researchers investigated how quarantine performance changed under different combinations of:\n\nVirus transmissibility: How easily the virus spreads.\nVaccine efficacy against transmission: How effectively vaccination reduces infection and onward transmission.\nCommunity vaccination coverage: How many people outside quarantine are vaccinated.\n\nThey then used a second simulation model to estimate the possibility of community outbreaks following a quarantine breach.\nThis allowed the researchers to explore how vaccination and quarantine measures might perform under increasingly challenging conditions."
+  },
+  {
+    "objectID": "posts/welcome/index.html#finding-1-more-contagious-variants-require-stronger-protection",
+    "href": "posts/welcome/index.html#finding-1-more-contagious-variants-require-stronger-protection",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Finding 1: More contagious variants require stronger protection",
+    "text": "Finding 1: More contagious variants require stronger protection\nOne of the clearest findings was that the amount of vaccine protection required increased as the virus became more transmissible.\nThe researchers measured transmissibility using the basic reproduction number, written as \\(R_0\\). A higher \\(R_0\\) indicates that an infected person could, on average, infect more people in a population without immunity or other controls.\nThe study compared scenarios against a baseline representing an unvaccinated virus with \\(R_0 = 3\\).\nAs shown in Figure 1, the model suggested that vaccine efficacy against transmission needed to exceed approximately 60% when \\(R_0 = 6\\), and 70% when \\(R_0 = 8\\), to keep the infection pressure from quarantine breaches near the baseline level.\n\n\n\n\n\n\n\n\nFigure 1: Approximate vaccine efficacy against transmission required to maintain baseline quarantine-breach infection pressure. Based on Zachreson et al. (2022).\n\n\n\n\n\nThe message is straightforward: vaccination can compensate for some of the increased transmission risk, but a more contagious virus requires stronger vaccine protection.\nThese percentages are approximate results from the simulation, not universal vaccination targets or measurements of protection against severe disease."
+  },
+  {
+    "objectID": "posts/welcome/index.html#finding-2-what-happens-after-quarantine-matters-too",
+    "href": "posts/welcome/index.html#finding-2-what-happens-after-quarantine-matters-too",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Finding 2: What happens after quarantine matters too",
+    "text": "Finding 2: What happens after quarantine matters too\nEven a well-managed quarantine facility cannot completely eliminate the possibility of an infected person reaching the community.\nThe researchers therefore investigated whether vaccination across the wider population could prevent quarantine breaches from developing into outbreaks.\nThey found that vaccine efficacy and community coverage needed to work together.\nWhen vaccine efficacy against transmission was below approximately 60%, even high community vaccination coverage offered relatively limited improvements in the modelled time before an outbreak.\nIn contrast, highly effective vaccines combined with high vaccination coverage substantially reduced the likelihood of outbreaks.\nThis demonstrates why vaccinating travellers and quarantine workers was only part of the solution. Protecting the wider community was equally important."
+  },
+  {
+    "objectID": "posts/welcome/index.html#finding-3-vaccination-was-not-the-only-safeguard",
+    "href": "posts/welcome/index.html#finding-3-vaccination-was-not-the-only-safeguard",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Finding 3: Vaccination was not the only safeguard",
+    "text": "Finding 3: Vaccination was not the only safeguard\nThe study also examined infection-control measures within quarantine facilities.\nThese included reducing opportunities for transmission between travellers and workers.\nWhen the researchers simulated weaker infection-control measures, the estimated risk of quarantine breaches increased.\nTable 1 summarises how three different safeguards contributed to controlling transmission and outbreak risk.\n\n\n\nTable 1: Three complementary safeguards identified in the simulation study. Based on Zachreson et al. (2022).\n\n\n\n\n\n\n\n\n\n\nSafeguard\nMain purpose\nWhy it matters\n\n\n\n\nVaccination within quarantine\nReduce transmission and infectious breaches\nGreater transmissibility requires stronger protection\n\n\nCommunity vaccination\nReduce outbreaks following a breach\nHigh coverage works best when vaccines strongly reduce transmission\n\n\nInfection-control measures\nLimit spread within quarantine facilities\nWeaker controls increase the risk of breaches\n\n\n\n\n\n\nThe important takeaway is that these safeguards address different parts of the problem.\nVaccination reduces transmission risk, community protection limits the consequences of breaches, and infection-control measures help prevent infections from spreading within quarantine facilities.\nNo single safeguard can fully replace the others."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-are-the-limitations",
+    "href": "posts/welcome/index.html#what-are-the-limitations",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "What are the limitations?",
+    "text": "What are the limitations?\nAlthough the findings provide useful insights, they were produced using computer simulations rather than direct experiments in real quarantine facilities.\nThe researchers made assumptions about quarantine conditions, vaccine performance and community vaccination coverage.\nFor example, the model treated vaccination coverage as constant and did not include waning immunity over time.\nThe results also reflect assumptions relevant to the Delta-era pandemic.\nTherefore, the numerical thresholds should not be interpreted as recommendations for today’s COVID-19 policies without considering newer evidence.\nInstead, the study is most useful for illustrating how different protective measures interact when a virus becomes more transmissible."
+  },
+  {
+    "objectID": "posts/welcome/index.html#conclusion-protection-works-best-in-layers",
+    "href": "posts/welcome/index.html#conclusion-protection-works-best-in-layers",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Conclusion: Protection works best in layers",
+    "text": "Conclusion: Protection works best in layers\nSo, could vaccination keep border quarantine effective against Delta?\nThe research suggests that vaccination could offset some of the additional risk caused by more transmissible variants, provided that vaccines offered sufficiently strong protection against transmission.\nHowever, effective border protection also depended on vaccination throughout the community and strong infection-control measures within quarantine facilities.\nThe broader lesson is that managing infectious disease risk requires multiple layers of protection working together.\nAs viruses evolve, relying on any single measure becomes increasingly risky."
+  },
+  {
+    "objectID": "posts/welcome/index.html#reference",
+    "href": "posts/welcome/index.html#reference",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Reference",
+    "text": "Reference\nZachreson, C., Shearer, F. M., Price, D. J., Lydeamore, M. J., McVernon, J., McCaw, J., & Geard, N. (2022). COVID-19 in low-tolerance border quarantine systems: Impact of the Delta variant of SARS-CoV-2. Science Advances, 8, eabm3624. https://doi.org/10.1126/sciadv.abm3624"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Min Khant Aung, currently pursuing a Master of Business Analytics at Monash University in Melbourne, Australia.\nWith a background in Computer Science, specialising in Artificial Intelligence, I’ve developed an interest in understanding how data can be used to solve real-world problems and support better decision-making.\nI’m particularly interested in data analytics, business intelligence, and data visualisation, especially finding ways to turn complex information into clear, meaningful insights.\nThrough this website, I share my projects, analyses, and data stories while developing my skills in communicating data to different audiences."
+  },
+  {
+    "objectID": "about.html#hello-im-min",
+    "href": "about.html#hello-im-min",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Min Khant Aung, currently pursuing a Master of Business Analytics at Monash University in Melbourne, Australia.\nWith a background in Computer Science, specialising in Artificial Intelligence, I’ve developed an interest in understanding how data can be used to solve real-world problems and support better decision-making.\nI’m particularly interested in data analytics, business intelligence, and data visualisation, especially finding ways to turn complex information into clear, meaningful insights.\nThrough this website, I share my projects, analyses, and data stories while developing my skills in communicating data to different audiences."
+  },
+  {
+    "objectID": "about.html#what-im-interested-in",
+    "href": "about.html#what-im-interested-in",
+    "title": "About Me",
+    "section": "What I’m Interested In",
+    "text": "What I’m Interested In\n\nBusiness Analytics: Using data to understand problems and support informed decisions.\nData Visualisation: Making complex findings easier to understand through effective visual design.\nData Storytelling: Communicating research and evidence in ways that are accessible and engaging.\n\nThanks for visiting my website!"
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html",
+    "href": "posts/covid-quarantine/index.html",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "",
+    "text": "Imagine spending two weeks in hotel quarantine, testing negative for COVID-19, and finally returning home. For much of the early pandemic, systems like this helped Australia and New Zealand limit imported infections from spreading into the community. But what happens when the virus becomes much easier to transmit? The emergence of the Delta variant raised an important question: could vaccination keep border quarantine effective, even as COVID-19 became more contagious?\nA study by Zachreson et al. (2022), published in Science Advances, investigated this question using computer simulations. The findings suggest that vaccination could reduce the additional risk created by more transmissible variants. However, vaccination alone was not enough to guarantee protection."
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html#when-the-virus-changed-the-rules",
+    "href": "posts/covid-quarantine/index.html#when-the-virus-changed-the-rules",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "",
+    "text": "Imagine spending two weeks in hotel quarantine, testing negative for COVID-19, and finally returning home. For much of the early pandemic, systems like this helped Australia and New Zealand limit imported infections from spreading into the community. But what happens when the virus becomes much easier to transmit? The emergence of the Delta variant raised an important question: could vaccination keep border quarantine effective, even as COVID-19 became more contagious?\nA study by Zachreson et al. (2022), published in Science Advances, investigated this question using computer simulations. The findings suggest that vaccination could reduce the additional risk created by more transmissible variants. However, vaccination alone was not enough to guarantee protection."
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html#how-did-the-researchers-investigate-the-problem",
+    "href": "posts/covid-quarantine/index.html#how-did-the-researchers-investigate-the-problem",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "How did the researchers investigate the problem?",
+    "text": "How did the researchers investigate the problem?\nRather than experimenting with real travellers, the researchers developed a computer model of a quarantine facility accommodating 100 travellers and 20 workers. The simulation included a minimum 14-day quarantine period, COVID-19 testing and isolation procedures designed to detect infections and limit transmission.\nThe researchers investigated how quarantine performance changed under different combinations of three factors:\n\nVirus transmissibility: How easily the virus spreads.\nVaccine efficacy against transmission: How effectively vaccination reduces infection and onward transmission.\nCommunity vaccination coverage: How many people outside quarantine are vaccinated.\n\nThey then used a second simulation model to estimate the possibility of community outbreaks following a quarantine breach. By combining these models, the researchers could explore how vaccination and quarantine measures might perform under increasingly challenging conditions."
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html#finding-1-more-contagious-variants-require-stronger-protection",
+    "href": "posts/covid-quarantine/index.html#finding-1-more-contagious-variants-require-stronger-protection",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Finding 1: More contagious variants require stronger protection",
+    "text": "Finding 1: More contagious variants require stronger protection\nOne of the clearest findings was that the amount of vaccine protection required increased as the virus became more transmissible.\nThe researchers measured transmissibility using the basic reproduction number, written as \\(R_0\\). A higher \\(R_0\\) indicates that an infected person could, on average, infect more people in a population without immunity or other controls. The study compared scenarios against a baseline representing an unvaccinated virus with \\(R_0 = 3\\).\nAs shown in Figure 1, the model suggested that vaccine efficacy against transmission needed to exceed approximately 60% when \\(R_0 = 6\\), and 70% when \\(R_0 = 8\\), to keep the infection pressure from quarantine breaches near the baseline level.\n\n\n\n\n\n\n\n\nFigure 1: Approximate vaccine efficacy against transmission required to maintain baseline quarantine-breach infection pressure. Based on Zachreson et al. (2022).\n\n\n\n\n\nNote: The bars illustrate approximate thresholds reported by Zachreson et al. (2022), not independently calculated values or precise policy targets.\nThe message is straightforward: vaccination can compensate for some of the increased transmission risk, but a more contagious virus requires stronger vaccine protection. These percentages are approximate results from the simulation, not universal vaccination targets or measurements of protection against severe disease."
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html#finding-2-what-happens-after-quarantine-matters-too",
+    "href": "posts/covid-quarantine/index.html#finding-2-what-happens-after-quarantine-matters-too",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Finding 2: What happens after quarantine matters too",
+    "text": "Finding 2: What happens after quarantine matters too\nEven a well-managed quarantine facility cannot completely eliminate the possibility of an infected person reaching the community. The researchers therefore investigated another important question: what happens when an infection escapes quarantine? Their simulations showed that community vaccination could make a substantial difference, but its effectiveness depended on both vaccine performance and vaccination coverage.\nWhen vaccine efficacy against transmission was below approximately 60%, even high community vaccination coverage provided relatively limited improvements in outbreak protection. However, when highly effective vaccines were combined with high community vaccination coverage, the results were substantially different. In some favourable scenarios, the modelled time until a 50% probability of an outbreak involving at least five cases increased from approximately 15 days in the baseline scenario to around 1,000 days.\nThese were modelled outcomes under specific assumptions, not predictions of when an outbreak would actually occur. The finding highlights an important distinction: vaccination inside quarantine reduces the risk of an infection escaping, while vaccination in the community helps reduce the consequences if one does."
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html#finding-3-vaccination-was-not-the-only-safeguard",
+    "href": "posts/covid-quarantine/index.html#finding-3-vaccination-was-not-the-only-safeguard",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Finding 3: Vaccination was not the only safeguard",
+    "text": "Finding 3: Vaccination was not the only safeguard\nThe study also examined the importance of infection-control measures within quarantine facilities, particularly those designed to limit transmission between travellers and workers. When the researchers simulated weaker infection-control measures, the estimated risk of quarantine breaches increased. This suggests that vaccination alone could not fully compensate for inadequate infection control.\nAs summarised in Table 1, effective quarantine protection relies on several safeguards operating at different stages of infection risk.\n\n\n\nTable 1: Three safeguards against quarantine breaches and community outbreaks. Adapted from Zachreson et al. (2022).\n\n\n\n\n\n\n\n\n\n\nSafeguard\nWhere it works\nWhy it matters\n\n\n\n\nVaccination of travellers and workers\nInside quarantine\nReduces transmission and the risk of infectious breaches\n\n\nCommunity vaccination\nOutside quarantine\nReduces the chance of a breach developing into an outbreak\n\n\nInfection-control measures\nWithin quarantine facilities\nLimits opportunities for the virus to spread\n\n\n\n\n\n\nThe important takeaway is that these safeguards address different parts of the problem. Vaccination within quarantine reduces transmission risk, community vaccination helps limit the consequences of breaches, and infection-control measures reduce opportunities for the virus to spread within quarantine facilities. No single safeguard can fully replace the others."
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html#what-are-the-limitations",
+    "href": "posts/covid-quarantine/index.html#what-are-the-limitations",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "What are the limitations?",
+    "text": "What are the limitations?\nAlthough the findings are useful, they come from computer simulations rather than direct observations of real-world quarantine outbreaks. This means the results depend on assumptions about how people, vaccines and quarantine systems behave.\nFor example, the researchers assumed that community vaccination coverage remained constant and did not account for vaccine protection decreasing over time. The model also represented a standardised quarantine facility, meaning actual facilities operating under different conditions could experience different levels of risk.\nAnother important consideration is that the study focused on conditions relevant to the Delta-era pandemic. As COVID-19 variants and vaccination patterns have changed, the numerical findings should not be treated as current public health recommendations.\nThe key point is that the results illustrate how different protective measures interact, rather than predicting exactly when or where an outbreak will occur."
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html#conclusion-protection-works-best-in-layers",
+    "href": "posts/covid-quarantine/index.html#conclusion-protection-works-best-in-layers",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Conclusion: Protection works best in layers",
+    "text": "Conclusion: Protection works best in layers\nCould vaccination keep border quarantine effective against the more transmissible Delta variant?\nThe research suggests that it could help, but vaccination alone was not enough. As the virus became more transmissible, stronger vaccine protection was needed to maintain the same level of quarantine-breach risk. The study also demonstrated that protecting people inside quarantine was only part of the solution. High community vaccination coverage helped reduce the risk of outbreaks following a breach, while effective infection-control measures limited opportunities for transmission within quarantine facilities.\nThese findings from Zachreson et al. (2022) highlight a broader lesson for managing infectious diseases: multiple layers of protection are more effective than relying on a single safeguard.\nAlthough the exact numerical findings are specific to the model, the underlying message remains relevant when considering how health systems can respond to changing infectious disease risks."
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html#reference",
+    "href": "posts/covid-quarantine/index.html#reference",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Reference",
+    "text": "Reference\nZachreson, C., Shearer, F. M., Price, D. J., Lydeamore, M. J., McVernon, J., McCaw, J., & Geard, N. (2022). COVID-19 in low-tolerance border quarantine systems: Impact of the Delta variant of SARS-CoV-2. Science Advances, 8, eabm3624. https://doi.org/10.1126/sciadv.abm3624"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Stories",
+    "section": "",
+    "text": "Hi! I’m Min Khant Aung, a Master of Business Analytics student at Monash University with a background in Computer Science.\nI believe data becomes most valuable when we can turn numbers and complex research into stories that people can understand.\nThis website is where I explore interesting questions, share insights from research, and practise communicating data clearly and creatively."
+  },
+  {
+    "objectID": "index.html#latest-stories",
+    "href": "index.html#latest-stories",
+    "title": "Data Stories",
+    "section": "Latest Stories",
+    "text": "Latest Stories\nExplore my latest posts, where I break down research findings and discover the stories behind the data."
+  },
+  {
+    "objectID": "posts/covid-quarantine/index.html#finding-2-what-happens-after-quarantine-matters-too-1",
+    "href": "posts/covid-quarantine/index.html#finding-2-what-happens-after-quarantine-matters-too-1",
+    "title": "Could Vaccines Keep Border Quarantine Safe Against Delta?",
+    "section": "Finding 2: What happens after quarantine matters too",
+    "text": "Finding 2: What happens after quarantine matters too\nEven a well-managed quarantine facility cannot completely eliminate the possibility of an infected person reaching the community. The researchers therefore investigated another important question: what happens when an infection escapes quarantine? Their simulations showed that community vaccination could make a substantial difference, but its effectiveness depended on both vaccine performance and vaccination coverage.\nWhen vaccine efficacy against transmission was below approximately 60%, even high community vaccination coverage provided relatively limited improvements in outbreak protection. However, when highly effective vaccines were combined with high community vaccination coverage, the results were substantially different. In some favourable scenarios, the modelled time until a 50% probability of an outbreak involving at least five cases increased from approximately 15 days in the baseline scenario to around 1,000 days.\nThese were modelled outcomes under specific assumptions, not predictions of when an outbreak would actually occur. The finding highlights an important distinction: vaccination inside quarantine reduces the risk of an infection escaping, while vaccination in the community helps reduce the consequences if one does."
+  }
+]

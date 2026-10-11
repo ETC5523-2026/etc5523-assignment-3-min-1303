@@ -1,0 +1,244 @@
+
+/* Colour palette */
+:root {
+  --espresso: #463B36;
+  --terracotta: #A34C35;
+  --terracotta-dark: #813925;
+  --ivory: #FAF7F0;
+  --sand: #EADBCB;
+  --paper: #FFFCF8;
+  --body-text: #37312D;
+  --muted-text: #665B54;
+
+  --bs-body-bg: var(--ivory);
+  --bs-body-color: var(--body-text);
+  --bs-link-color: var(--terracotta);
+  --bs-link-hover-color: var(--terracotta-dark);
+}
+
+/* General layout */
+body {
+  background-color: var(--ivory);
+  color: var(--body-text);
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+/* Improve article paragraph spacing */
+main.content p {
+  margin-bottom: 0.9rem;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--espresso);
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+h1 {
+  letter-spacing: -0.03em;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--sand);
+}
+
+/* Page and blog titles */
+.quarto-title .title {
+  color: var(--espresso);
+  font-weight: 750;
+  letter-spacing: -0.035em;
+}
+
+.quarto-title .subtitle {
+  color: var(--muted-text);
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: var(--espresso) !important;
+  border-bottom: 2px solid var(--terracotta);
+  box-shadow: 0 2px 10px rgba(70, 59, 54, 0.10);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: var(--ivory) !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+  color: #F3C1AA !important;
+}
+
+.navbar .nav-link.active {
+  font-weight: 700;
+}
+
+/* Links */
+main a {
+  color: var(--terracotta);
+  text-decoration-color: transparent;
+  transition: color 0.2s ease;
+}
+
+main a:hover {
+  color: var(--terracotta-dark);
+  text-decoration: underline;
+}
+
+a:focus-visible {
+  outline: 2px solid var(--terracotta);
+  outline-offset: 3px;
+}
+
+/* Blog listing */
+.quarto-listing .quarto-post {
+  background-color: var(--paper);
+  border: 1px solid var(--sand);
+  border-radius: 12px;
+  padding: 1.4rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 3px 12px rgba(70, 59, 54, 0.04);
+}
+
+.quarto-listing .listing-title {
+  color: var(--espresso);
+  font-weight: 700;
+}
+
+.quarto-listing .listing-description {
+  color: var(--muted-text);
+}
+
+/* Tables */
+table {
+  background-color: var(--paper);
+  color: var(--body-text);
+}
+
+table th {
+  background-color: var(--espresso) !important;
+  color: var(--ivory) !important;
+  font-weight: 600;
+}
+
+table td,
+table th {
+  padding: 0.75rem;
+  border-color: var(--sand);
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #F5EDE4;
+}
+
+/* Figures and images */
+main img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+figcaption,
+.figure-caption,
+.table-caption {
+  color: var(--muted-text);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* About page links/buttons */
+.about-link {
+  border: 1px solid var(--terracotta) !important;
+  border-radius: 8px !important;
+  color: var(--terracotta) !important;
+  padding: 0.5rem 1rem;
+}
+
+.about-link:hover {
+  background-color: var(--terracotta);
+  color: white !important;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--terracotta);
+  background-color: #F5EDE4;
+  padding: 1rem 1.3rem;
+  border-radius: 0 8px 8px 0;
+  color: var(--espresso);
+}
+
+/* Footer */
+.nav-footer {
+  background-color: var(--espresso);
+  color: var(--ivory);
+}
+
+.nav-footer a {
+  color: #F3C1AA;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  body {
+    font-size: 0.97rem;
+  }
+
+  .quarto-listing .quarto-post {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 1.9rem;
+  }
+}
+
+
+/* Homepage welcome section */
+
+.hero-intro {
+  background-color: #FFFCF8;
+  border: 1px solid #EADBCB;
+  border-left: 5px solid #A34C35;
+  border-radius: 12px;
+  padding: 2rem 2.5rem;
+  margin: 1.5rem 0 3rem 0;
+  box-shadow: 0 4px 16px rgba(70, 59, 54, 0.04);
+}
+
+.hero-intro h3 {
+  color: #463B36;
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.hero-intro p {
+  color: #665B54;
+  line-height: 1.8;
+  max-width: 780px;
+}
+
+@media (max-width: 768px) {
+  .hero-intro {
+    padding: 1.4rem;
+  }
+
+  .hero-intro h3 {
+    font-size: 1.4rem;
+  }
+}
+
+/* Table of contents */
+#TOC .nav-link.active,
+#TOC .nav-link:hover {
+  color: #A34C35 !important;
+  border-left-color: #A34C35 !important;
+}
